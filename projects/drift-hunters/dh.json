@@ -1,6 +1,6 @@
 
 {
-    "TOTAL_MEMORY": 512,
+    "TOTAL_MEMORY": 1024,
     "dataUrl": "unity/dh.data.unityweb",
     "asmCodeUrl": "unity/dh.asm.code.unityweb",
     "asmMemoryUrl": "unity/dh.asm.memory.unityweb",
